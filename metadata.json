@@ -1,0 +1,6 @@
+{
+  "name": "SafariQuest Tours & Travel",
+  "description": "Premier African city tours, wildlife safaris, and coastal escapes with instant Lipa Na M-Pesa reservations via Till 6608497.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
